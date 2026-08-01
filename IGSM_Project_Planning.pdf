@@ -1,0 +1,737 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 12 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 8272
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 42 785.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Project Planning Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 757.8898 cm
+q
+BT 1 0 0 1 0 4 Tm 26.5968 0 Td 22 TL /F3 18 Tf 0 0 0 rg (Project Planning \(Product Backlog & Sprint Planning\)) Tj T* -26.5968 0 Td ET
+Q
+Q
+q
+1 0 0 1 42 743.8898 cm
+Q
+q
+1 0 0 1 67.2378 671.8898 cm
+q
+.898039 .905882 .921569 rg
+n 0 72 115.2 -72 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 56 Tm (Date) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 56 Tm (31 July 2026) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 32 Tm (Project Name) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 32 Tm (Indoor Gardening Services Management \(IGSM\)) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (Platform) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 8 Tm (ServiceNow) Tj T* ET
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.5 w
+n 0 72 m 460.8 72 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 72 l S
+n 460.8 0 m 460.8 72 l S
+n 0 48 m 460.8 48 l S
+n 0 24 m 460.8 24 l S
+n 115.2 0 m 115.2 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 42 661.8898 cm
+Q
+q
+1 0 0 1 38.4378 277.8898 cm
+q
+.145098 .388235 .921569 rg
+n 0 384 518.4 -24 re f*
+1 1 1 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 368 Tm (Sprint) Tj T* ET
+BT 1 0 0 1 70.8 368 Tm (Epic) Tj T* ET
+BT 1 0 0 1 157.2 368 Tm (Story ID) Tj T* ET
+BT 1 0 0 1 207.6 368 Tm (User story / task) Tj T* ET
+BT 1 0 0 1 409.2 368 Tm (Story Points) Tj T* ET
+BT 1 0 0 1 466.8 368 Tm (Priority) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 330 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Application) Tj T* (Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 330 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Create IGSM scoped application and) Tj T* (define application roles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 306 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 306 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Data Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 306 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 294 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Create X_igsm_indoor_garden_request) Tj T* (table and required fields.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 306 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 306 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 270 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 258 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (User & Group) Tj T* (Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 270 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 258 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Create IGSM Technicians and IGSM) Tj T* (Managers groups.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 270 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 270 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Service Catalog) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Create record producer and map variables) Tj T* (to the request table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 186 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Workflow) Tj T* (Automation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 186 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Implement approval workflow, technician) Tj T* (assignment, and notifications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (SLA) Tj T* (Configuration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Configure Response SLA and Completion) Tj T* (SLA for requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Security \(ACLs\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Implement role-based and) Tj T* (requester-based ACLs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Business Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Add backend validations and prevent) Tj T* (invalid state changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Client Scripts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Implement UI validations and record) Tj T* (producer client scripts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sprint-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.8 6 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Testing &) Tj T* (Validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157.2 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (US-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 207.6 6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Validate end-to-end workflow, roles, SLAs,) Tj T* (and access controls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 409.2 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 466.8 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.4 w
+n 0 384 m 518.4 384 l S
+n 0 0 m 518.4 0 l S
+n 0 0 m 0 384 l S
+n 518.4 0 m 518.4 384 l S
+n 0 360 m 518.4 360 l S
+n 0 324 m 518.4 324 l S
+n 0 288 m 518.4 288 l S
+n 0 252 m 518.4 252 l S
+n 0 216 m 518.4 216 l S
+n 0 180 m 518.4 180 l S
+n 0 144 m 518.4 144 l S
+n 0 108 m 518.4 108 l S
+n 0 72 m 518.4 72 l S
+n 0 36 m 518.4 36 l S
+n 64.8 0 m 64.8 384 l S
+n 151.2 0 m 151.2 384 l S
+n 201.6 0 m 201.6 384 l S
+n 403.2 0 m 403.2 384 l S
+n 460.8 0 m 460.8 384 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 73.2378 662.8198 Tm
+(Done by) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 188.4378 662.8198 Tm
+(Dega Leela Ramana) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 997
+>>
+stream
+Gat=*D/\,^&H9tY\5*d=e6k@]i_8WmXtQ!9C8,RPmhlRn%L<H9;ucgA0*r-,,cW'(gcb?oIXKE]"bI98hm52Uf+]S+'I\TU%[72<dKd9T7t4%Y+ut9XMEo<PiXBo?m3ibqS4f@5E.Kl!`L<XQ6K;c_]]QO-VQ4O>=`,!/rLN?Hc]Gk-HD0=\imWo6@OG2,"BQb03"St[r0tD#@k,X^4p3?8e=%;7T=<p&;aFT!ZTi^ATAX@r.V?lh*H&15Cqn,mA[/4[>dbF8AAuH@eZk$e^#EuU:8h`lCU+H[a3&AnMB\dFLTpt*?"F)["i3Dh-m]6)"::hI8lY#6R`7%]A9a]4N'j#NquR[6O5ZtX&5@o4,BjtpkgQ%R7u*Rd6;BBh/ZNUjcW*iV_mI2s]C%+IOClf*^20?,)p'cOjUhq1OHgkB9LbrT]?Nu-3Y^".h\>DD.^*k'Qr?+u#5j^hEm.t2V:rQ9FH9bcWAF*;im>?6?@=Dc'#0qP,2bA+pS_u:Zp6t:HG9GL=EI<[)D-9^7`c^C7R7FI;*2XJGK!usE@d-)IW6p7?Q9G!d3*GoaCLAl4Zn]`(=Xj0aBW^I9;4B]-iMb$7)(Vq8;AKdN?4BFk@kiK/>cJekpjULGH*T;jNniW<Z78[#0_gub^#6B3dF_&[Gs>t?:TRB8OTdTaAB*oj"JtD/-o&/7_$=MVGsX6Yu"qXO)+X/g9qRu<VsDj-W+Bn@;V!,A&Vknjg)/NYdPb'g587-`CVOaba_e")\20-?tD_TWU+6XGU07OH?AYL9%IKAc;#gfGH+0@kOGo^&@(^^$\J+s;VfSae%a+%qj4IG75/X%V6:OqZqdFQ3gj0Cn#GJ1_n:SlY3K4se\C=0L[$c%cHid=aTkuHfWTd5j&XB4V_<-nk];l369c=_qCOA,71O6:n^G;K-?M\-/J?k[2bL!,Upl-?dGP5@h,bTEiX/G-0PFc&0S+kLjpel=.<o2HQu?&=Fqbp5#tFpqC6Zi=~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 824
+>>
+stream
+Gau1-968f@&BF6eMER-JT]g+5a/3]7mIWZ$Db1HLQiLX_`-0;M:Z%FR*c`q`i/Yi9kjdEBG,=jeTQi3g*%q>16Faa@^c7!G@$4%dJ&%DTpX3RE8BJ^"MJ+#DS:M^1G2uF^SBJ?#"=t/([jV@D&+aTLO%U<:;4>eZ-Q(.',//YJ!T=8nk70/sQL`q@,qE1$Qo;B42msQ\A<L]o%k#`=H-Of0[S#N-/BZ.q`IU,9TE$FL!h*CgS=iS[5A9A<d;qKIbCP>KXG8tQ0IjDV%DrVOMMJ6BDNT8&/^0&\XlSYHCgZ.nms$L3pV3qLii'N(Q,'>``ToK*DLH$Rjf".Q,R$JBC#2N^875sEn8FMD[Qc[6C.U=j!V'EgNRgHO^pPlR2dnrf4$N%d/Sd9C%r>:OrU/(E,0TDrWqJsWA6tD1G-k.j^E`PqkG%d4c+@Qm4*K6QRX7,>f3:Y!*EtDR6tn+P%`H74o76V+.5*A(K=@WbP@'U]e9DT@&R'M8b],,WJKWG9n,uYKHcS19\IVgEQP+\,0I=(eS*<0l?XfU-K$]Et3fl9\(r)2jin"B?UH->T"K01,GrT-7ZY9oFNXP#<:e^1f1\W%m>k!sB?)5r#[)M,pk4,sOEYdDQ7-!>YC,:c.T&1l7P[&2(gXb*"#BXVKj1'JRR(PLWr:k_F8LEQrjW^a@1?Of]rGWOij/*e8Rjo#-=gffQ`/Zrd7WVe=(:H\Z[P\skj#eil&_$REGVG!*:tXK^JDiq?4aYg,/)k*Q=^Z`J--=0Fgisd\4AI78iLS$:GSV+b-dK%Vqi>MSeP+)^Yc0*D_h$23$c#u<+o~>
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000453 00000 n 
+0000008777 00000 n 
+0000008884 00000 n 
+0000008991 00000 n 
+0000009110 00000 n 
+0000009222 00000 n 
+0000009335 00000 n 
+0000009445 00000 n 
+0000009647 00000 n 
+0000010736 00000 n 
+0000010800 00000 n 
+0000011002 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+11918
+%%EOF

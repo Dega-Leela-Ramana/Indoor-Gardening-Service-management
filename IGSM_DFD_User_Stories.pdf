@@ -1,0 +1,584 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5598
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 38.4 789.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Project Design Phase-II) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 761.4898 cm
+q
+BT 1 0 0 1 0 4 Tm 113.6988 0 Td 22 TL /F3 18 Tf .121569 .160784 .215686 rg (Data Flow Diagram & User Stories) Tj T* -113.6988 0 Td ET
+Q
+Q
+q
+1 0 0 1 70.8378 681.4898 cm
+q
+.898039 .905882 .921569 rg
+n 0 72 108 -72 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 56 Tm (Date) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 114 56 Tm (31 July 2026) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 32 Tm (Project Name) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 114 32 Tm (Indoor Gardening Services Management \(IGSM\)) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (Platform) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 114 8 Tm (ServiceNow) Tj T* ET
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.5 w
+n 0 72 m 453.6 72 l S
+n 0 0 m 453.6 0 l S
+n 0 0 m 0 72 l S
+n 453.6 0 m 453.6 72 l S
+n 0 48 m 453.6 48 l S
+n 0 24 m 453.6 24 l S
+n 108 0 m 108 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 38.4 673.4898 cm
+Q
+q
+1 0 0 1 38.4 647.4898 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Level 0 Data Flow Diagram \(Context Diagram\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 523.4898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.858824 .917647 .996078 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 180 42 110 34 re B*
+Q
+q
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 205 58 Tm (IGSM System) Tj T* ET
+Q
+q
+.972549 .980392 .988235 rg
+.392157 .454902 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 10 82 90 24 re B*
+Q
+q
+BT /F4 7.5 Tf 9 TL ET
+BT /F4 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 22 91 Tm (Customer) Tj T* ET
+Q
+q
+.972549 .980392 .988235 rg
+.392157 .454902 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 360 82 90 24 re B*
+Q
+q
+BT /F4 7.5 Tf 9 TL ET
+BT /F4 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 372 91 Tm (Manager) Tj T* ET
+Q
+q
+.972549 .980392 .988235 rg
+.392157 .454902 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 10 10 90 24 re B*
+Q
+q
+BT /F4 7.5 Tf 9 TL ET
+BT /F4 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 22 19 Tm (Technician) Tj T* ET
+Q
+q
+.972549 .980392 .988235 rg
+.392157 .454902 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 360 10 90 24 re B*
+Q
+q
+BT /F4 7.5 Tf 9 TL ET
+BT /F4 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 372 19 Tm (Administrator) Tj T* ET
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 94 m 180 59 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 290 59 m 360 94 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 22 m 180 52 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 290 52 m 360 22 l S
+Q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 517.4898 cm
+Q
+q
+1 0 0 1 38.4 491.4898 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Level 1 Data Flow Diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 317.4898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 10 110 90 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 18 121 Tm (Service Request) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 120 110 80 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 128 121 Tm (Approval) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 220 110 105 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 228 121 Tm (Technician Assignment) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 110 90 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 353 121 Tm (Service Update) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 120 35 90 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 128 46 Tm (Notifications) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 235 35 90 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 243 46 Tm (SLA Monitoring) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 350 35 80 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 358 46 Tm (Reports) Tj T* ET
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 124 m 120 124 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 200 124 m 220 124 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 325 124 m 345 124 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 160 110 m 160 63 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 280 110 m 280 63 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 210 49 m 235 49 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 325 49 m 350 49 l S
+Q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 311.4898 cm
+Q
+q
+1 0 0 1 38.4 285.4898 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (DFD Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 240.4898 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (The IGSM application receives service requests from customers, routes them through an approval workflow, assigns) Tj T* (technicians automatically, tracks maintenance updates, monitors SLA compliance, and generates operational reports for) Tj T* (managers and administrators.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 76.8378 672.2128 Tm
+(Done by) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 184.8378 672.2128 Tm
+(Dega Leela Ramana) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1916
+>>
+stream
+GauI9gN)%,&;KZH'RT(VC6TicJ1fY7:"-('NNG;C9gLNI*Ya^!a)Bi=8WZn_M2]''27?lmikN+@`s!T+nF4Dd^M+2IlO&+:SHJUp[/h>Q!*4Tc]@Gp,Jp0A3`6)2&(<E>jcX7FH4qFD70HPME%"R#\AHZVW_!CMs!\]l"jTTU;0CSf3ik?4;IjqXN[>(_XPqm;cQU\%@-WkeOeJl"^mXsYL`7JDF[:CKPI4p7=*8;3]*ra'1PeIES/R(<aXo^g9!ZrWYoNIoe$8uf<??<s6lm<-I'*eI^#S@>,BLT-A^AdGu@%hXBg7l2OaCNBjE9urVH)GsaO4mALNBJUqX6^'B_G@VWmrg`4U-!*MOlRZl'!H7?Ob[Qp!u?g);m\pglm*ekER?XkpoQK.F!f2CcBj.YYOt&9)#*%b.-sG.>p&f#;&@Zu=oV*:/t%qVni(9_G'-]Y$Jl\,/#/<Es&$fM'1/4JY;@A0_Y8BFs"PGVWX%FBRSS($s5A9W1Vi83WD"Vg0\&[1-__4JEnNbF7JIMuo9KEt)[GDsO/3L'HtNNL:#OTUX1.u+/otTonB4eYl.mk2coA[^lK_bVoiYEj(7j`gqeLXeWe&3OjgU(dEDGnuJcsLSYWp#18<X+TrBm`'CtL(HXU8?MSO$=W(DG9;"Nhq;Kjn[(DL!H`\/Pk''r4;F[9=*Lm1II?g?c04q7K-35J#8=6Z4'm9/XX":<9!R7=ATj+DkQ^@qd1:]1pX2<S/8UA^\X6OYhQFZlo.XUns,e^!@DZZD?^Q0N\&]$TR?Bf@;-TFG>e[@^&Z&CUgFP/2l5CC-BBMff75bN(e$t@m9ptN03A,9TjiBh9K@3N(a]^'2sF$n%/X%>E>J,`2QuhotH#u"8VQ!F>c].S[EYkaf]EMpP/'ZCWpDSKB_iS=-if?lp?#85U.5O3M;LkblEaHQtkW]oWccB:5[5nnMm6]i)N['km-c;.?^gU<H3:!8`qe%(JLJlk\GfWh8e0aGL5U]P,csb@^JfJ-at"H1n!+^U2n`9dct#c@'(s'^!BX1N6[.qOO8p0JLhL")DX':[mU&BgcI0a74*n*Ki;Xgrc^i4bne[fYL2&Thdrh=A^R?>8[dh6Fc.,2VQ%uKS'(G,EO8.bb$&_*RTKqFJ0Q#:3Pa%ea;Md5Wr6=p<@1b-FE0=PSLG(@<a>oh9FjFIVEj`d:I=V1U5lOTnQ8(k-hV,;egJ7U$ccu,a@?9^.`LKmP--<n>\VcQ8W:lL3D>QlF\J@`X%+;s:*F3l7Ab8.f+$N$Ksom%9^KpC1m+e_JgrOXQ^Gp"J&2!<Uap:`JlDTcAB,WiGF_]o%qT5$DY]'2VD[M;@?IR)UXKTQ>Frpq1]o,:3B'Z28@?LM=m*BC'lLm.`%Nn]OR9.:QU9T@nKRQAl&l^%d<TKs_B^uKE_fiu2s`77[aVG^1M*F1ZPDk81^62ighaOT[HhVRmE(+I<iu$YT0SE1D$G$NCl:@s3ASi@[4=s7Q,1Q&OKmmMA#(IkB+Wgt6CF/u@68$YV9,2/%b$)C&i_XngS&:@EsB@51pXrd72hTJ"k*Cghp2ZWq(ff]"-^T.)W*n2r;c9B0@5`Wrc++6H(`*A1:V7;]roXBWprQ,g=F_K$86G-=E:fulr7f#Y8,L9@]?R(!`t:+=3G*OAkRQSE,)i2f6U3:Q<\:f`1fOj"MG2gYCOaG0j>JWj$D$kg\4RIN*.*T[PY@IfKP%#>M@NP&peE.I37!oY('Yr/K[b"Z73s5r<#D7NFI2*1f=!H'D'+LM:#^_a&*D?;AK_jCtVN=d@PGC.S(WIcHmn?W7n/>/F5i+\CP?-E3Qg1I%S;B-P)Vsc+Za9Yt'uAqAJc,d<+)U;doEu'";oeQ'FGC<.V';`m'hb[aU$+pU<<'h3lmPjceMlAnMTP@.>o.g6gU~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000446 00000 n 
+0000006096 00000 n 
+0000006203 00000 n 
+0000006310 00000 n 
+0000006429 00000 n 
+0000006541 00000 n 
+0000006654 00000 n 
+0000006764 00000 n 
+0000006966 00000 n 
+0000008975 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9039
+%%EOF

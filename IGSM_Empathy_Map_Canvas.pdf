@@ -1,0 +1,343 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3491
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.8 542.8756 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Ideation Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.8 514.8756 cm
+q
+BT 1 0 0 1 0 0 Tm 270.6119 0 Td 22 TL /F3 22 Tf .121569 .160784 .215686 rg (Empathize & Discover) Tj T* -270.6119 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.14488 416.8756 cm
+q
+.898039 .905882 .921569 rg
+n 0 84 129.6 -84 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 66 Tm (Date) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 135.6 66 Tm (31 July 2026) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 38 Tm (Project Name) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 135.6 38 Tm (Indoor Gardening Services Management \(IGSM\)) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 10 Tm (Primary User) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 135.6 10 Tm (Indoor Gardening Customer) Tj T* ET
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.5 w
+n 0 84 m 705.6 84 l S
+n 0 0 m 705.6 0 l S
+n 0 0 m 0 84 l S
+n 705.6 0 m 705.6 84 l S
+n 0 56 m 705.6 56 l S
+n 0 28 m 705.6 28 l S
+n 129.6 0 m 129.6 84 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.8 402.8756 cm
+Q
+q
+1 0 0 1 34.8 372.8756 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 5 Tm /F3 13 Tf 18 TL (Empathy Map Canvas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.8 338.8756 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (This empathy map captures the perspective of an indoor gardening customer who uses the IGSM ServiceNow application to request maintenance services, schedule plant) Tj T* (care, and track service requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.8 328.8756 cm
+Q
+q
+1 0 0 1 68.14488 170.4756 cm
+q
+1 1 1 rg
+n 0 158.4 705.6 -158.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 128.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 5 Tm /F3 13 Tf 18 TL (SAYS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 102.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 I need someone to maintain my indoor plants regularly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 82.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 I want quick confirmation after submitting a request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 62.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 Please notify me when the technician is assigned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 42.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 I want to know when the service will be completed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 364.8 128.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 5 Tm /F3 13 Tf 18 TL (THINKS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 364.8 102.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 Will my plants receive proper care?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 364.8 82.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 Is the technician experienced?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 364.8 62.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 Why is the service taking longer than expected?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 364.8 42.4 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (\177 Can I rely on this service provider in the future?) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .835294 .882353 RG
+.75 w
+n 0 158.4 m 705.6 158.4 l S
+n 0 0 m 0 158.4 l S
+n 705.6 0 m 705.6 158.4 l S
+n 0 0 m 705.6 0 l S
+n 352.8 0 m 352.8 158.4 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 74.14488 403.4951 Tm
+(Done by) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 203.7449 403.4951 Tm
+(Dega Leela Ramana) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 917
+>>
+stream
+Gatm:9lldX&A@sBlnQbD.H9+&ZuIkgUhLGtdn;>$#[8`K"Gp[en%/Xj3jF>')4@`=qV%jfgO1:(i^LH9X9/0[_WNEN`.PDs&i]of2_\#TcP*T%)'ob!Jg:AHQ8h/M7Q@U;2HR5T#W!sK/r8?1M.#%%1^o95M;'V6UUG0t/rmCW"e1<\k&lSDDM4W!*-W/0P(5nd&+;CaO^SbDU_U&u"7a!G'=7,[jj3b^';SEcSspksGeFRIHD^rSqEVq&3h"?CP;n:cqcIj?5dBI*B+-`ugbOQm;NtE?B+.@@'hGcBH!<$-($.b<5m>,Ni<mtlU53W[8/n#r;-Of$BrYA@>_$-8TQOQ2N+sua.&+L(U9@I.R[H+af!T<Nn,h<)V](tt.+=]OFNsB;!VoUN,kg;E24rcRXNsTpWtIi*$D'&IiH<,XS'>_TZ#Y8/moFRWe[.q-L`l0FA?r4=Z&o3/otN/uWbd1,VW!>e50?nn>uDq``Fu5POLGZ8b9=V^F<_+BK<qT9"]D*&^*RSS]oar.Y:c6:'Bq=Ao+8A!pjJSjnLS]j`/s`u"TBd?+8YJGNEm^?G/`6jC+/<m/?l60m&%J2g[0'+g>/I)+)tsV#"Ep_SGqq`hu.mG%?GrN%&S)qaHaDOk'.uX&d]RsE2E!]FB;)Y1^dH9GOb'De<Ro(WI[MQF"=l>s2[j9f3!I/*%H!baCW8R)T1Rh`,aP/1ME)V0[2Tm5aC>%;.2m3okBmDIW2+p`,>"AX^R6@R(B4_>9N@0Cu3](.WQqJ=j#?1>9>B5QF(m"Wl7/f<B8@(>&V\RHfq1L335aB!A"#rPfW7&7%;X4<qg*IC_O`UX(Bi7T9,KX)^-3]_5\!ocLp'?K@++GGjF5c%KSW,7J_<l3'd3pjqo&hfbq9^3]hb:/i*(l/cq6OT6LB5~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000435 00000 n 
+0000003978 00000 n 
+0000004085 00000 n 
+0000004192 00000 n 
+0000004311 00000 n 
+0000004423 00000 n 
+0000004536 00000 n 
+0000004738 00000 n 
+0000005747 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+5800
+%%EOF

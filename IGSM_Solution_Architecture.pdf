@@ -1,0 +1,470 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6034
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 127.6038 0 Td (Project Design Phase) Tj T* -127.6038 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 713.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Solution Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 695.8898 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Date:) Tj /F1 10 Tf ( 31 July 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 677.8898 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Project Name:) Tj /F1 10 Tf ( Indoor Gardening Services Management \(IGSM\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 647.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Solution Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 545.8898 cm
+q
+BT 1 0 0 1 0 86 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Indoor Gardening Services Management \(IGSM\) project is a ServiceNow-based application) Tj T* (that allows customers to submit indoor gardening service requests, schedule plant maintenance,) Tj T* (and track request status. Requests are submitted through the Service Catalog using a Record) Tj T* (Producer, stored in the custom ) Tj /F2 10 Tf (x_igsm_indoor_garden_request) Tj /F1 10 Tf ( table, routed through an) Tj T* (approval workflow, assigned to an IGSM technician using Flow Designer, and monitored using) Tj T* (Response and Completion SLAs. Business Rules, Client Scripts, Notifications and ACLs automate) Tj T* -0.004955 Tw (and secure the complete lifecycle. Request states include ) Tj /F2 10 Tf (New ) Tj /F3 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( Pending Approval ) Tj /F3 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( Assigned) Tj T* 0 Tw /F3 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( In Progress ) Tj /F3 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( Completed ) Tj /F3 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( Closed) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 515.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Architecture Diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 369.8898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 5 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 10 77 Tm (Customer) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 60 77 m 70 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 70 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 75 77 Tm (Service Catalog) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 125 77 m 135 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 135 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 140 77 Tm (IGSM Request) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 190 77 m 200 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 200 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 205 77 Tm (Flow Designer) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 255 77 m 265 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 265 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 270 77 Tm (Approval) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 320 77 m 330 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 330 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 335 77 Tm (Technician) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 385 77 m 395 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 395 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 400 77 Tm (SLA) Tj T* ET
+Q
+q
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 450 77 m 460 77 l S
+Q
+q
+.960784 .960784 .960784 rg
+0 0 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 460 60 55 35 re B*
+Q
+q
+BT /F4 6 Tf 7.2 TL ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 465 77 Tm (Closed) Tj T* ET
+Q
+Q
+Q
+Q
+q
+1 0 0 1 78 339.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Components Used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.4378 171.8898 cm
+q
+.827451 .827451 .827451 rg
+n 0 162 446.4 -18 re f*
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 149 Tm (Component) Tj T* ET
+BT 1 0 0 1 164.4 149 Tm (Description) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 131 Tm (Scoped Application) Tj T* ET
+BT 1 0 0 1 164.4 131 Tm (IGSM application) Tj T* ET
+BT 1 0 0 1 6 113 Tm (Custom Table) Tj T* ET
+BT 1 0 0 1 164.4 113 Tm (Stores service requests) Tj T* ET
+BT 1 0 0 1 6 95 Tm (Record Producer) Tj T* ET
+BT 1 0 0 1 164.4 95 Tm (Captures customer requests) Tj T* ET
+BT 1 0 0 1 6 77 Tm (Flow Designer) Tj T* ET
+BT 1 0 0 1 164.4 77 Tm (Approval, assignment and notifications) Tj T* ET
+BT 1 0 0 1 6 59 Tm (Business Rules) Tj T* ET
+BT 1 0 0 1 164.4 59 Tm (Backend validations) Tj T* ET
+BT 1 0 0 1 6 41 Tm (Client Scripts) Tj T* ET
+BT 1 0 0 1 164.4 41 Tm (UI validations) Tj T* ET
+BT 1 0 0 1 6 23 Tm (ACLs) Tj T* ET
+BT 1 0 0 1 164.4 23 Tm (Role-based security) Tj T* ET
+BT 1 0 0 1 6 5 Tm (SLAs) Tj T* ET
+BT 1 0 0 1 164.4 5 Tm (Response & Completion tracking) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 162 m 446.4 162 l S
+n 0 0 m 446.4 0 l S
+n 0 0 m 0 162 l S
+n 446.4 0 m 446.4 162 l S
+n 0 144 m 446.4 144 l S
+n 0 126 m 446.4 126 l S
+n 0 108 m 446.4 108 l S
+n 0 90 m 446.4 90 l S
+n 0 72 m 446.4 72 l S
+n 0 54 m 446.4 54 l S
+n 0 36 m 446.4 36 l S
+n 0 18 m 446.4 18 l S
+n 158.4 0 m 158.4 162 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 141.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 99.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (The IGSM application provides an automated, secure, and efficient solution for managing indoor) Tj T* (gardening services through ServiceNow using Flow Designer, SLAs, ACLs, Business Rules, Client) Tj T* (Scripts, and Notifications.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 78 668.0058 Tm
+(Done by\072) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 118.448 668.0058 Tm
+(Dega Leela Ramana) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000439 00000 n 
+0000006525 00000 n 
+0000006632 00000 n 
+0000006739 00000 n 
+0000006851 00000 n 
+0000006963 00000 n 
+0000007041 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7151
+%%EOF

@@ -1,0 +1,496 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7729
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 38.4 789.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Project Design Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 761.4898 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 4 Tm /F3 18 Tf 22 TL 163.7208 0 Td (Problem \226 Solution Fit) Tj T* -163.7208 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2378 679.4898 cm
+q
+.898039 .905882 .921569 rg
+n 0 72 115.2 -72 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 56 Tm (Date) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 56 Tm (31 July 2026) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 32 Tm (Project Name) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 32 Tm (Indoor Gardening Services Management \(IGSM\)) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (Platform) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 8 Tm (ServiceNow) Tj T* ET
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.5 w
+n 0 72 m 460.8 72 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 72 l S
+n 460.8 0 m 460.8 72 l S
+n 0 48 m 460.8 48 l S
+n 0 24 m 460.8 24 l S
+n 115.2 0 m 115.2 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 38.4 669.4898 cm
+Q
+q
+1 0 0 1 38.4 643.4898 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 595.4898 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (The Problem\226Solution Fit for the IGSM application identifies the key operational challenges faced by indoor gardening) Tj T* (service providers and demonstrates how the ServiceNow-based solution addresses those challenges through workflow) Tj T* (automation, SLA tracking, technician assignment, and secure request management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 587.4898 cm
+Q
+q
+1 0 0 1 38.4 561.4898 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Problem\226Solution Fit Canvas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.6378 111.4898 cm
+q
+.145098 .388235 .921569 rg
+n 0 444 468 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 426 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 47.9955 0 Td (Problem) Tj T* -47.9955 0 Td ET
+Q
+Q
+q
+1 0 0 1 150 426 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 40.0485 0 Td (Current Situation) Tj T* -40.0485 0 Td ET
+Q
+Q
+q
+1 0 0 1 315.6 426 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 42.447 0 Td (IGSM Solution) Tj T* -42.447 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 402 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Manual service request handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 366 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 39 Tm /F1 9 Tf 12 TL (Requests are received through phone) Tj T* (calls, messages, or manual records,) Tj T* (causing delays and inconsistent) Tj T* (tracking.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 366 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 39 Tm /F1 9 Tf 12 TL (Customers submit requests through) Tj T* (the Service Catalog and Record) Tj T* (Producer, creating structured digital) Tj T* (requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 330 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Unorganized maintenance) Tj T* (scheduling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 318 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Plant maintenance visits are) Tj T* (scheduled manually and often require) Tj T* (repeated follow-ups.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 306 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 39 Tm /F1 9 Tf 12 TL (Maintenance schedules are) Tj T* (managed through the IGSM request) Tj T* (table with automated workflow) Tj T* (support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 282 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Delayed technician assignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 258 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Technicians are assigned manually,) Tj T* (leading to uneven workload) Tj T* (distribution and slow response times.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 258 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Flow Designer automatically assigns) Tj T* (technicians based on predefined) Tj T* (business logic and availability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 234 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Lack of approval transparency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 210 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Managers have limited visibility into) Tj T* (pending service requests and) Tj T* (approval status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 210 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL -0.052 Tw (Automated approval workflows notify) Tj T* 0 Tw (managers and track approval) Tj T* (decisions within the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 186 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Missed SLA commitments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 162 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Response and completion times are) Tj T* (difficult to monitor and enforce) Tj T* (consistently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 162 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Response SLA and Completion SLA) Tj T* (monitor request timelines and trigger) Tj T* (alerts for SLA breaches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 138 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Limited service visibility) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 126 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Customers cannot easily track the) Tj T* (progress of their service requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 102 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 39 Tm /F1 9 Tf 12 TL (Real-time status updates and) Tj T* (notifications keep customers) Tj T* (informed throughout the request) Tj T* (lifecycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 78 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Weak access control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 66 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Sensitive request data may be) Tj T* (accessible to unauthorized users.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 54 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (ACLs provide role-based and) Tj T* (requester-based access control for) Tj T* (secure data management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 30 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Poor operational monitoring) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 6 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Managers lack centralized reporting) Tj T* (on service performance and) Tj T* (technician productivity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 6 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Reports and dashboards provide) Tj T* (service trends, SLA compliance, and) Tj T* (technician performance metrics.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.4 w
+n 0 444 m 468 444 l S
+n 0 0 m 468 0 l S
+n 0 0 m 0 444 l S
+n 468 0 m 468 444 l S
+n 0 420 m 468 420 l S
+n 0 360 m 468 360 l S
+n 0 300 m 468 300 l S
+n 0 252 m 468 252 l S
+n 0 204 m 468 204 l S
+n 0 156 m 468 156 l S
+n 0 96 m 468 96 l S
+n 0 48 m 468 48 l S
+n 144 0 m 144 444 l S
+n 309.6 0 m 309.6 444 l S
+Q
+Q
+Q
+q
+1 0 0 1 38.4 101.4898 cm
+Q
+q
+1 0 0 1 38.4 75.48976 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Value Proposition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 41.48976 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL -0.070061 Tw (The IGSM application transforms indoor gardening service operations from a manual process into a centralized ServiceNow) Tj T* 0 Tw (solution that automates service requests, approvals, technician assignment, SLA monitoring, security, and reporting. This) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 73.2378 669.2128 Tm
+(Done by) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 188.4378 669.2128 Tm
+(Dega Leela Ramana) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 256
+>>
+stream
+Gapom9hWDY&A@g>]VCA&9fHq<X.Ugn6N05DVn40JZ6n7^s5%8uGq]YFh?P9FW0"LQ4Rd1VoI;#2Qk`L*"nRHbdsZB0:O1HTSFe@sSos_UPN_*^l4Ka4e9pI'NcH&gKQQKoT)>cg@Y"!XK"8"cU#k1:^SJA<7_DR'Kk%>+BO0:G"o%VE9PJ-08@5Z#i/LAUD-5`!\O94"\_?Uh>r1O<bZb`6=3'8&]6FgU98hZ+"ijT\4j5:t6i6;b!o5NL,ti+~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000435 00000 n 
+0000008216 00000 n 
+0000008323 00000 n 
+0000008430 00000 n 
+0000008549 00000 n 
+0000008661 00000 n 
+0000008774 00000 n 
+0000008976 00000 n 
+0000009324 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9377
+%%EOF

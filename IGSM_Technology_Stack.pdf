@@ -1,0 +1,800 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10546
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 38.4 789.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Project Design Phase-II) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 761.4898 cm
+q
+BT 1 0 0 1 0 4 Tm 85.1958 0 Td 22 TL /F3 18 Tf .121569 .160784 .215686 rg (Technology Stack \(Architecture & Stack\)) Tj T* -85.1958 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2378 679.4898 cm
+q
+.898039 .905882 .921569 rg
+n 0 72 115.2 -72 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 56 Tm (Date) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 56 Tm (31 July 2026) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 32 Tm (Project Name) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 32 Tm (Indoor Gardening Services Management \(IGSM\)) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (Platform) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 121.2 8 Tm (ServiceNow) Tj T* ET
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.5 w
+n 0 72 m 460.8 72 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 72 l S
+n 460.8 0 m 460.8 72 l S
+n 0 48 m 460.8 48 l S
+n 0 24 m 460.8 24 l S
+n 115.2 0 m 115.2 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 38.4 671.4898 cm
+Q
+q
+1 0 0 1 38.4 645.4898 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Technical Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 587.4898 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 42.5 Tm /F1 9.5 Tf 13 TL (The Indoor Gardening Services Management \(IGSM\) application is implemented as a ServiceNow scoped application.) Tj T* (Customers submit service requests through the Service Catalog, requests are stored in the custom IGSM table, automated) Tj T* (using Flow Designer, validated through Business Rules and Client Scripts, secured with ACLs, monitored through SLAs,) Tj T* (and reported through dashboards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 581.4898 cm
+Q
+q
+1 0 0 1 38.4 461.4898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 10 45 70 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 18 56 Tm (Customer) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 95 45 85 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 103 56 Tm (Service Catalog) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 195 45 95 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 203 56 Tm (IGSM Request Table) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 305 45 75 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 313 56 Tm (Flow Designer) Tj T* ET
+Q
+q
+.937255 .964706 1 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 395 45 65 28 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 403 56 Tm (Technician) Tj T* ET
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 80 59 m 95 59 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 180 59 m 195 59 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 290 59 m 305 59 l S
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 380 59 m 395 59 l S
+Q
+q
+.858824 .917647 .996078 rg
+.145098 .388235 .921569 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 305 5 75 24 re B*
+Q
+q
+BT /F4 7 Tf 8.4 TL ET
+BT /F4 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 316 15 Tm (SLA Engine) Tj T* ET
+Q
+q
+.278431 .333333 .411765 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 342 45 m 342 29 l S
+Q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 453.4898 cm
+Q
+q
+1 0 0 1 38.4 427.4898 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf .066667 .094118 .152941 rg (Components & Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.4378 114.4898 cm
+q
+.145098 .388235 .921569 rg
+n 0 309 446.4 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 292 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F3 8.5 Tf 12 TL 2.3185 0 Td (S.No) Tj T* -2.3185 0 Td ET
+Q
+Q
+q
+1 0 0 1 42 292 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F3 8.5 Tf 12 TL 20.79125 0 Td (Component) Tj T* -20.79125 0 Td ET
+Q
+Q
+q
+1 0 0 1 142.8 292 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F3 8.5 Tf 12 TL 53.42075 0 Td (Description) Tj T* -53.42075 0 Td ET
+Q
+Q
+q
+1 0 0 1 308.4 292 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F3 8.5 Tf 12 TL 42.149 0 Td (Technology) Tj T* -42.149 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 271 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 271 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (User Interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 271 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Service request submission and tracking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 260 cm
+q
+BT 1 0 0 1 0 13.5 Tm 11 TL /F1 8.5 Tf .066667 .094118 .152941 rg (ServiceNow Service Catalog &) Tj T* (Record Producer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 239 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 239 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Application Logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 228 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Workflow automation and request) Tj T* (processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 239 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Flow Designer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 207 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 207 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Data Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 207 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Indoor gardening request records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 196 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Custom Table:) Tj T* (X_igsm_indoor_garden_request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 175 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 164 cm
+q
+BT 1 0 0 1 0 13.5 Tm 11 TL /F1 8.5 Tf .066667 .094118 .152941 rg (User & Access) Tj T* (Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 175 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Role and group management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 175 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11 TL /F1 8.5 Tf .066667 .094118 .152941 rg (ServiceNow Roles & Groups) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 143 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 143 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 143 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Role-based and requester-based access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 143 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (ACLs \(Read, Write, Delete\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 122 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 122 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Backend and client-side validations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 122 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11 TL /F1 8.5 Tf .066667 .094118 .152941 rg (Business Rules & Client Scripts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 101 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 101 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (SLA Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 101 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Response and completion time tracking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 101 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (ServiceNow SLA Engine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 80 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 69 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Approval and service update) Tj T* (notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 80 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Flow Designer Notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 48 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 37 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Service performance and operational) Tj T* (dashboards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 37 cm
+q
+BT 1 0 0 1 0 13.5 Tm 11 TL /F1 8.5 Tf .066667 .094118 .152941 rg (ServiceNow Reports &) Tj T* (Dashboards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 16 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Infrastructure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 5 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Application hosting and database) Tj T* (platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.4 16 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (ServiceNow Cloud Platform) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.4 w
+n 0 309 m 446.4 309 l S
+n 0 0 m 446.4 0 l S
+n 0 0 m 0 309 l S
+n 446.4 0 m 446.4 309 l S
+n 0 287 m 446.4 287 l S
+n 0 255 m 446.4 255 l S
+n 0 223 m 446.4 223 l S
+n 0 191 m 446.4 191 l S
+n 0 159 m 446.4 159 l S
+n 0 138 m 446.4 138 l S
+n 0 117 m 446.4 117 l S
+n 0 96 m 446.4 96 l S
+n 0 64 m 446.4 64 l S
+n 0 32 m 446.4 32 l S
+n 36 0 m 36 309 l S
+n 136.8 0 m 136.8 309 l S
+n 302.4 0 m 302.4 309 l S
+Q
+Q
+Q
+q
+1 0 0 1 38.4 106.4898 cm
+Q
+q
+1 0 0 1 38.4 80.48976 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL (Application Characteristics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.4378 54.48976 cm
+q
+.145098 .388235 .921569 rg
+n 0 22 446.4 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F3 8.5 Tf 12 TL 37.65675 0 Td (Characteristic) Tj T* -37.65675 0 Td ET
+Q
+Q
+q
+1 0 0 1 150 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F3 8.5 Tf 12 TL 96.78825 0 Td (Implementation in IGSM) Tj T* -96.78825 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.819608 .835294 .858824 RG
+.4 w
+n 0 22 m 446.4 22 l S
+n 0 0 m 0 22 l S
+n 446.4 0 m 446.4 22 l S
+n 0 0 m 446.4 0 l S
+n 144 0 m 144 22 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 73.2378 670.2128 Tm
+(Done by) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 188.4378 670.2128 Tm
+(Dega Leela Ramana) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 680
+>>
+stream
+Gatm9gN(as&:O:SlsjJ&YoNS&a1srk#u'+K#8C<4<+O+9j_!H:=o"B-d"X=9BG,7/CA45<Y8dTU0%,1=$K+8PmlqI.0bc\l1o*sLiDU=N#%ZAS+h5U68FnC.q(fuGbXPmhmXqc1e2<'^.Shc6oeg0Bi[]X8>#I\-#Y>Y=1isn)Z8bONW4KFJ&$[eXIBPQae=qV]jTk#QGHDTuTQl"HXlm@7FlF]=1aDVDS'?/=<NSY8ZpP;(!=#AK-"m5C7bB*1`=I$CVAIA>>5=sNqF-AmABVNb&\PO"rOV45Ci&i8M<ca/r9r]O1sJ+diis5X'6_/m+4l<(>llt==ec[_-$*n$\6qplcSdFMZ)q"*nqC]U7n=CK1:D=BXMa!F9Bkn.;p[G>U(oYl#;*JsHLRcqB4c7g!I(cFh&f+c=(am#/*;#p<b'N'qr2]Eqc6Kd^<44D(r)HXT-g>\$ZUWo\2%oHEoAG&!Of+0mTSlhb[)M2kA)EP\&*GpVYT>ocs1t!esWObg`2=P\PqXHPI+JrTJB\3A#8&VP@\JV/,<EA1PSE*OemT^)Lq6qf/%0ViVOc(F0\IaPa3u82S:A^*`KS`$1OSG)!F_*jb8j3'Pn>S1rYtTqrj9$cHp7AI/^[ib@H2Z*79^?.#&s=isE\D6t8!G)"oAO]f(?\g$ZET_&kQF\Jb~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000446 00000 n 
+0000011045 00000 n 
+0000011152 00000 n 
+0000011259 00000 n 
+0000011378 00000 n 
+0000011490 00000 n 
+0000011603 00000 n 
+0000011713 00000 n 
+0000011915 00000 n 
+0000012687 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+12751
+%%EOF
